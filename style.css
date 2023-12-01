@@ -1,0 +1,147 @@
+
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Inter', sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3CACAE;
+}
+
+header{
+    display: flex;
+    align-items: end;
+    text-align: end;
+    justify-content: end;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    /* margin-top: 30px; */
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.botoes-container{
+    text-align: center;
+    
+}
+
+
+button{
+    display: flex;
+    border-radius: 20px;
+    height: 8vh;
+    width: 15vw;
+    background-color: #A06AB4;
+    margin-top: 30px;
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: black 1px 1px 1px;
+    font-size: 20px;
+
+}
+ 
+.modal{
+    display: flex;
+    flex-direction: column;
+    background-color: #C26DBC;
+    border-radius: 10px;
+    height: 90vh;
+    width: 60vw;
+    font-size: 14px;
+    border: 5px solid #a1599c;
+
+}
+
+h4{
+    font-size: 20px;
+}
+
+.modal-content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px;
+}
+
+.texto-modal{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 40px;
+    width: 25vw;
+    padding: 5px;
+    color: beige;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.significado-modal{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 65px;
+    color: beige;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.tradução-modal{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 62px;
+    color: beige;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 17.5px;
+}
+
+h3{
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.box2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    background-color: #b3dee3;
+    width: 60vw;
+    height: 100vh;
+    border-radius: 10px;
+    border: 5px solid #2e8889;
+    margin-bottom: 30px;
+}
+
+.letra{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 14.5px;
+}
+
+
+
+
