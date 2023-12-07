@@ -54,7 +54,7 @@ const objetos = [
         audio: './audio/lieutenant.mp4',
         significado: 'Meaning of Lieutenant. masculine noun What fills the place of a boss, and commands in his absence. Military rank immediately lower than captain. ', 
         tradução: 'O que supre o lugar de um chefe e comanda na sua ausência. substantivo masculino O que supre o lugar de um chefe, e comanda na sua ausência. Posto militar imediatamente inferior ao de capitão.',
-        voz: './audio/tenente.mp4'
+        voz: './audio/tenenti.mp4'
 
     },
     {
